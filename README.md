@@ -1,4 +1,4 @@
-# Code paper Uncertainty Reduction for [*Uncertainty Reduction for Model Adaptation in Semantic Segmentation*](http://publications.idiap.ch/downloads/papers/2021/Sivaprasad_CVPR_2021.pdf) at CVPR 2021
+# Code for paper [*Uncertainty Reduction for Model Adaptation in Semantic Segmentation*](http://publications.idiap.ch/downloads/papers/2021/Sivaprasad_CVPR_2021.pdf) at CVPR 2021
 
 In this package, we provide our PyTorch code for out CVPR 2021 paper on Model Adaptation for Segmentation. If you use our code, please cite us:
 
