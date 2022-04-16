@@ -4,12 +4,14 @@ In this package, we provide our PyTorch code for out CVPR 2021 paper on Model Ad
 
 ```bibtex
 @inproceedings{teja2021uncertainty,
-  author = {S, Prabhu Teja. and Fleuret, F.},
-  title = {Uncertainty Reduction for Model Adaptation in Semantic Segmentation},
-  booktitle = {Proceedings of the IEEE international conference on Computer Vision and Pattern Recognition (CVPR)},
-  note = {(to appear)},
-  year = {2021}
-}
+  author={S, Prabhu Teja and Fleuret, François},
+  booktitle={2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  title={Uncertainty Reduction for Model Adaptation in Semantic Segmentation}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={9608-9618},
+  doi={10.1109/CVPR46437.2021.00949}}
 ```
 
 The PDF version of the paper is available [here](http://publications.idiap.ch/downloads/papers/2021/Sivaprasad_CVPR_2021.pdf).
@@ -26,7 +28,8 @@ While we aren't aware of any python version specific idiosyncracies, we tested t
 
 ### Downloading pre-trained models
 
-We use the pretrained models provided by [MaxSquareLoss](https://github.com/ZJULearning/MaxSquareLoss) at [https://drive.google.com/file/d/1wLffQRljXK1xoqRY64INvb2lk2ur5fEL/view](https://drive.google.com/file/d/1wLffQRljXK1xoqRY64INvb2lk2ur5fEL/view) into a folder named `pretrained`
+We use the pretrained models provided by [MaxSquareLoss](https://github.com/ZJULearning/MaxSquareLoss) at [https://drive.google.com/file/d/1QMpj7sPqsVwYldedZf8A5S2pT-4oENEn/view]
+(https://drive.google.com/file/d/1QMpj7sPqsVwYldedZf8A5S2pT-4oENEn/view) into a folder named `pretrained`
 
 ### Setting up paths
 
