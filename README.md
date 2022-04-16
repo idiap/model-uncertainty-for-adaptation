@@ -28,8 +28,7 @@ While we aren't aware of any python version specific idiosyncracies, we tested t
 
 ### Downloading pre-trained models
 
-We use the pretrained models provided by [MaxSquareLoss](https://github.com/ZJULearning/MaxSquareLoss) at [https://drive.google.com/file/d/1QMpj7sPqsVwYldedZf8A5S2pT-4oENEn/view]
-(https://drive.google.com/file/d/1QMpj7sPqsVwYldedZf8A5S2pT-4oENEn/view) into a folder named `pretrained`
+We use the pretrained models provided by [MaxSquareLoss](https://github.com/ZJULearning/MaxSquareLoss) at [https://drive.google.com/file/d/1QMpj7sPqsVwYldedZf8A5S2pT-4oENEn/view](https://drive.google.com/file/d/1QMpj7sPqsVwYldedZf8A5S2pT-4oENEn/view) into a folder named `pretrained`
 
 ### Setting up paths
 
