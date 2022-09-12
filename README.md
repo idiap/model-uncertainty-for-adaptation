@@ -14,7 +14,7 @@ In this package, we provide our PyTorch code for out CVPR 2021 paper on Model Ad
   doi={10.1109/CVPR46437.2021.00949}}
 ```
 
-The PDF version of the paper is available [here](http://publications.idiap.ch/downloads/papers/2021/Sivaprasad_CVPR_2021.pdf).
+The PDF version of the paper is available [here](http://publications.idiap.ch/attachments/papers/2021/Sivaprasad_CVPR_2021.pdf).
 
 ## Requirements
 
